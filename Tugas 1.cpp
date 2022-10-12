@@ -15,7 +15,7 @@ int main()
     cout << "Nama       : " << nama << endl;
     cout << "Kelas      : " << kelas << endl;
     cout << "NPM        : " << npm << endl;
-    cout << "Umur       : " << usia << " tahun" << endl;
+    cout << "Umur       : " << umur << " tahun" << endl;
     cout << "Hobby      : " << hobby << endl;
     cout << "Cita-cita  : " << cita << endl;
     return 0;
